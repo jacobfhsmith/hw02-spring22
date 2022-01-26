@@ -1,0 +1,57 @@
+---
+title: "Homework #02: Data Wrangling and Joins"
+subtitle: "due [date] 11:59 PM "
+author: "Your name here"
+date: ""
+output: pdf_document
+editor_options: 
+  chunk_output_type: console
+---
+
+# Load Packages and Data
+
+```{r load-packages, message = FALSE, warning = FALSE}
+library(tidyverse)
+library(viridis)
+``` 
+
+```{r read-in-data, message = FALSE, warning = FALSE}
+natunivs <- read_csv("~/NatUnivs.csv")
+slacs <- read_csv("~/SLACs.csv")
+presvote_pop <- read_csv("~/PresVote_Population.csv")
+```
+
+# Exercise 1
+
+```{r ex-1}
+```
+
+# Exercise 2
+
+```{r ex-2}
+```
+
+# Exercise 3
+
+```{r ex-3}
+```
+
+# Exercise 4
+
+```{r ex-4}
+```
+
+# Exercise 5
+
+```{r ex-5}
+```
+
+# Exercise 6
+
+```{r ex-6}
+```
+
+# Exercise 7
+
+```{r ex-7}
+```
