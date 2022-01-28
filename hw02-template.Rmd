@@ -16,9 +16,9 @@ library(viridis)
 ``` 
 
 ```{r read-in-data, message = FALSE, warning = FALSE}
-natunivs <- read_csv("~/NatUnivs.csv")
-slacs <- read_csv("~/SLACs.csv")
-presvote_pop <- read_csv("~/PresVote_Population.csv")
+natunivs <- read_csv("NatUnivs.csv")
+slacs <- read_csv("SLACs.csv")
+presvote_pop <- read_csv("PresVote_Population.csv")
 ```
 
 # Exercise 1
